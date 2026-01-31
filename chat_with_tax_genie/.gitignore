@@ -1,0 +1,21 @@
+# Secrets & API Keys
+.env
+*.env
+*api_key*
+secrets.json
+
+# Python
+__pycache__/
+.pyc
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Database
+chroma_db/
+.db
+
+
+
